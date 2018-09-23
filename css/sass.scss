@@ -1,0 +1,16 @@
+// Pagination
+.pager {
+    li {
+        margin: 0 6px;
+        .active_link {
+            background: #444 !important;
+        }
+        .active_link--a {
+            color: #fff;
+        }
+    }
+
+    a {
+        color: #444;
+    }
+}
